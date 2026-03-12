@@ -19,6 +19,6 @@ JavaScript
 TI - Etec
 
 
-🧠 Objetivo:
+🧠 Objetivos:
 
-Buscar constantemente aprimorar minhas habilidades técnicas, desenvolver projetos práticos e expandir meus conhecimentos na área de tecnologia.
+Busco constantemente aprimorar minhas habilidades técnicas, desenvolver projetos práticos e expandir meus conhecimentos na área de tecnologia.
