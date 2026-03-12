@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Estudante do 1º ano do Ensino Médio na ETEC fazendo TI, com interesse em tecnologia, programação e desenvolvimento de soluções digitais.
+Estudante do Ensino Médio na ETEC fazendo TI, com interesse em tecnologia, programação e desenvolvimento de soluções digitais.
 
 🎓 Formação:
 
