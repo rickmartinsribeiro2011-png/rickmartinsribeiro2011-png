@@ -6,7 +6,7 @@ Estudante do Ensino Médio na ETEC fazendo TI, com interesse em tecnologia, prog
 
 Fundamentos de TI: Hardware e Software
 Introdução a Redes de Computadores
-Atualmente cursando Informática Básica no SENAI
+Cursei Informática Básica no SENAI
 
 🚀 Tenho facilidade para aprender novas tecnologias, bom raciocínio lógico e interesse em desenvolver projetos que envolvam programação e desenvolvimento web.
 
